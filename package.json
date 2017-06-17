@@ -1,0 +1,25 @@
+{
+  "name": "@nphan/how-to-npm-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Nghia Phan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nghiamphan/npm-tutorials.git"
+  },
+  "keywords": [
+    "npm-tutorials"
+  ],
+  "bugs": {
+    "url": "https://github.com/nghiamphan/npm-tutorials/issues"
+  },
+  "homepage": "https://github.com/nghiamphan/npm-tutorials#readme",
+  "description": "npm tutorials",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
